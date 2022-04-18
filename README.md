@@ -6,3 +6,4 @@
 - Email - raymond.schandra@gmail.com
 - LinkedIn - https://www.linkedin.com/in/raymondchandra/
 - Instagram - https://instagram.com/raymond_sc
+- Website / Blog - https://raymondschandra.wordpress.com/
