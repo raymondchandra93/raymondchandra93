@@ -7,3 +7,4 @@
 - LinkedIn - https://www.linkedin.com/in/raymondchandra/
 - Instagram - https://instagram.com/raymond_sc
 - Website / Blog - https://raymondschandra.wordpress.com/
+- Discord - raymond_sc#9567
