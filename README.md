@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raymond Chandra @raymondchandra93
-- 👀 I’m interested in looking for opportunities in IT Industry related to Junior Software Engineer / Software Quality Assurance  
-- 🌱 I’m currently learning Java / Python / Software Quality Assurance 
-- 💞️ I’m looking to collaborate on whatever opportunity that you presented ahead
+- 👀 Welcome to my GitHub! Please help yourself by taking a look at the projects that are here 
+- 🌱 I am considering myself a self-learner to keeps growing just like a plant
+- 💞️ I’m looking to collaborate on whatever opportunity that you present ahead
 - 📫 How to reach me 
 - Email - raymond.schandra@gmail.com
 - LinkedIn - https://www.linkedin.com/in/raymondchandra/
